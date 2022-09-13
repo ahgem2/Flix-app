@@ -20,7 +20,8 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthrough GIF
 
-[Recording of FLIX]![image](https://user-images.githubusercontent.com/70420648/189822042-24b300bc-1529-4679-b35f-588918af37b0.png)
+![Recording of FLIX](https://user-images.githubusercontent.com/70420648/189823112-50534613-18af-4969-b824-65635ba1398b.gif)
+
 
 ### Notes
 I encountered too many errors. First of all, I had an issue with the fact that I started with Objective-C and had to restart. It went smoothly till I had more issues with adding in the Alamo extention and no one could help me because it seemed hopeless even though I have an updated mac. I think the biggest issue was when I couldn't reopen the project again so I will restart it. I wish that you would think I tried my best for over 8 hours trying to troubleshoot and it was very frustrating for it to be a simple and straightforward project. I think the main issue that stopped me was the Alamo extention and how it wouldn't cooperate with me.
